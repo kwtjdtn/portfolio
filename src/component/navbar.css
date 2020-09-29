@@ -1,0 +1,18 @@
+.main-nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: gray;
+}
+
+.main-nav ul {
+    list-style: none;
+    text-align: right;
+}
+
+.main-nav li {
+    color: white;
+    font-size: 20px;
+    display: inline;
+    padding-right: 30px;
+}
