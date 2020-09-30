@@ -4,6 +4,7 @@
     height: 500px;
     justify-content: center;
     flex-direction: column;
+    margin-bottom: 100px;
 }
 
 .about-main-text {
@@ -16,6 +17,7 @@
     align-self: center;
     width: 180px;
     border-top: 3px solid black;
+    margin-top: 5px;
 }
 
 .auth-img {
