@@ -14,6 +14,7 @@ const About = () => {
           <div className="about-sub-text"> 디자인 도안에 따라 웹 페이지 퍼블리싱 작업 수행 (React.js 사용) </div>
           <div className="about-text3"> Cell Phone : 010-9276-3641</div>
           <div className="about-text3"> E-mail : kwtjdtn@gmail.com</div>
+          <div className="about-text3"> Git-hub : https://github.com/kwtjdtn </div>
         </div>
       </div>
     </div>
