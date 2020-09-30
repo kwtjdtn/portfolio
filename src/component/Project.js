@@ -7,7 +7,7 @@ import IKIK from "../img/IKIK.png";
 
 const Project = () => {
   return (
-    <div className = "project-container">
+    <div className = "project-container" id="Project">
       <div className="project-main-text"> Project </div>
       <div className="project-border "></div>
       <div className = "project-li">

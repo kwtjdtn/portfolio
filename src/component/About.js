@@ -3,7 +3,7 @@ import './About.css';
 import auth from '../img/about.png';
 const About = () => {
   return (
-    <div className="about-container">
+    <div className="about-container" id="About">
       <div className="about-main-text"> About Me </div>
       <div className="text-border"></div>
       <div className="about-text">

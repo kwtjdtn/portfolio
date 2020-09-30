@@ -1,5 +1,5 @@
 .main-nav {
-    position: absolute;
+    display: flex;
     width: 100%;
     background-color: gray;
 }
