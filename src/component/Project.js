@@ -28,7 +28,7 @@ const Project = () => {
           </div>
           <div className = "project-space" />
           <div className = "project-con">
-              <a href = "#"><img src={IKIK} alt ='IKIK' className = "project-img"/></a>
+              <a href = "https://github.com/kookmincapstone2/IKIK_Android"><img src={IKIK} alt ='IKIK' className = "project-img"/></a>
               <div className = "project-text">IKIK project (R/N 진행중)</div>
           </div>
       </div>
