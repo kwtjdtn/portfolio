@@ -12,7 +12,8 @@ const Navbar = () => {
           spy={true}
           smooth={true}
           offset={-70}
-          duration={500}
+          duration={700}
+          className="nav-scroll"
         >
           Home
         </Link>
@@ -22,7 +23,8 @@ const Navbar = () => {
           spy={true}
           smooth={true}
           offset={-70}
-          duration={500}
+          duration={700}
+          className="nav-scroll"
         >
           About
         </Link>
@@ -32,7 +34,8 @@ const Navbar = () => {
           spy={true}
           smooth={true}
           offset={-70}
-          duration={500}
+          duration={700}
+          className="nav-scroll"
         >
           Project
         </Link>
@@ -42,7 +45,8 @@ const Navbar = () => {
           spy={true}
           smooth={true}
           offset={-70}
-          duration={500}
+          duration={700}
+          className="nav-scroll"
         >
           Contact
         </Link>

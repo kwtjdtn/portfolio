@@ -1,17 +1,19 @@
 .main-nav {
     display: flex;
     width: 100%;
-    background-color: gray;
-}
-
-.main-nav ul {
-    list-style: none;
+    background-color: black;
     text-align: right;
+    height: 50px;
+    vertical-align: middle;
+    justify-content: flex-end;
+    align-items: center;
 }
 
-.main-nav li {
+.nav-scroll {
     color: white;
     font-size: 20px;
     display: inline;
     padding-right: 30px;
+    vertical-align: middle;
+    text-align: center;
 }
